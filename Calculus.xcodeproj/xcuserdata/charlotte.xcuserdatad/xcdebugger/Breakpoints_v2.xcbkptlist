@@ -1,0 +1,1205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0B048FE0-40BE-4F3F-8576-D6F98D1EC7D8"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B7BB17CA-A513-415C-8172-9D374583F155"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "integrate/Divide.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "resolve(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DCC29B70-4728-44C5-8B0B-CAFAA8D6417D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "integrate/Multiply.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "___integrate(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DCC29B70-4728-44C5-8B0B-CAFAA8D6417D - 57bdf9006bb496b3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "integrate.Multiply.integrate() -&gt; Swift.Optional&lt;integrate.ArithmeticBlock&gt;"
+                  moduleName = "integrate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charlotte/Developer/integrate/integrate/Multiply.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "1768">
+               </Location>
+               <Location
+                  uuid = "DCC29B70-4728-44C5-8B0B-CAFAA8D6417D - 57bdf9006bb496b3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "integrate.Multiply.integrate() -&gt; Swift.Optional&lt;integrate.ArithmeticBlock&gt;"
+                  moduleName = "integrate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charlotte/Developer/integrate/integrate/Multiply.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "1832">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7607E43A-CA31-49B4-9181-B303CBABBF9C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "integrate/Multiply.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "203"
+            endingLineNumber = "203"
+            landmarkName = "simplify()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7607E43A-CA31-49B4-9181-B303CBABBF9C - 552b257e64fb5973"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "integrate.Multiply.simplify() -&gt; integrate.ArithmeticBlock"
+                  moduleName = "integrate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charlotte/Developer/integrate/integrate/Multiply.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "146"
+                  endingLineNumber = "146"
+                  offsetFromSymbolStart = "1140">
+               </Location>
+               <Location
+                  uuid = "7607E43A-CA31-49B4-9181-B303CBABBF9C - 552b257e64fb5973"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "integrate.Multiply.simplify() -&gt; integrate.ArithmeticBlock"
+                  moduleName = "integrate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charlotte/Developer/integrate/integrate/Multiply.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "146"
+                  endingLineNumber = "146"
+                  offsetFromSymbolStart = "1372">
+               </Location>
+               <Location
+                  uuid = "7607E43A-CA31-49B4-9181-B303CBABBF9C - 552b257e64fb5973"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "integrate.Multiply.simplify() -&gt; integrate.ArithmeticBlock"
+                  moduleName = "integrate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charlotte/Developer/integrate/integrate/Multiply.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "146"
+                  endingLineNumber = "146"
+                  offsetFromSymbolStart = "1572">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "846AD7D0-C519-4382-85A8-5AC0430C234A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "integrate/Multiply.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "205"
+            endingLineNumber = "205"
+            landmarkName = "simplify()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "846AD7D0-C519-4382-85A8-5AC0430C234A - 552b257e64fb593d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "integrate.Multiply.simplify() -&gt; integrate.ArithmeticBlock"
+                  moduleName = "integrate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charlotte/Developer/integrate/integrate/Multiply.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "148"
+                  endingLineNumber = "148"
+                  offsetFromSymbolStart = "2232">
+               </Location>
+               <Location
+                  uuid = "846AD7D0-C519-4382-85A8-5AC0430C234A - 552b257e64fb593d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "integrate.Multiply.simplify() -&gt; integrate.ArithmeticBlock"
+                  moduleName = "integrate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charlotte/Developer/integrate/integrate/Multiply.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "148"
+                  endingLineNumber = "148"
+                  offsetFromSymbolStart = "2448">
+               </Location>
+               <Location
+                  uuid = "846AD7D0-C519-4382-85A8-5AC0430C234A - 552b257e64fb593d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "integrate.Multiply.simplify() -&gt; integrate.ArithmeticBlock"
+                  moduleName = "integrate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charlotte/Developer/integrate/integrate/Multiply.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "148"
+                  endingLineNumber = "148"
+                  offsetFromSymbolStart = "2652">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F8C0C55D-41BB-4A3D-A494-15B48891C631"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "integrate/Multiply.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "207"
+            endingLineNumber = "207"
+            landmarkName = "simplify()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F8C0C55D-41BB-4A3D-A494-15B48891C631 - 552b257e64fb46ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "integrate.Multiply.simplify() -&gt; integrate.ArithmeticBlock"
+                  moduleName = "integrate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charlotte/Developer/integrate/integrate/Multiply.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "150"
+                  endingLineNumber = "150"
+                  offsetFromSymbolStart = "3312">
+               </Location>
+               <Location
+                  uuid = "F8C0C55D-41BB-4A3D-A494-15B48891C631 - 552b257e64fb46ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "integrate.Multiply.simplify() -&gt; integrate.ArithmeticBlock"
+                  moduleName = "integrate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charlotte/Developer/integrate/integrate/Multiply.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "150"
+                  endingLineNumber = "150"
+                  offsetFromSymbolStart = "3528">
+               </Location>
+               <Location
+                  uuid = "F8C0C55D-41BB-4A3D-A494-15B48891C631 - 552b257e64fb46ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "integrate.Multiply.simplify() -&gt; integrate.ArithmeticBlock"
+                  moduleName = "integrate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charlotte/Developer/integrate/integrate/Multiply.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "150"
+                  endingLineNumber = "150"
+                  offsetFromSymbolStart = "3740">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "72AA530C-9CF3-4551-B0B9-EC0F10FADE24"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "integrate/Multiply.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "209"
+            endingLineNumber = "209"
+            landmarkName = "simplify()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "72AA530C-9CF3-4551-B0B9-EC0F10FADE24 - 552b257e64fb46b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "integrate.Multiply.simplify() -&gt; integrate.ArithmeticBlock"
+                  moduleName = "integrate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charlotte/Developer/integrate/integrate/Multiply.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "152"
+                  endingLineNumber = "152"
+                  offsetFromSymbolStart = "4424">
+               </Location>
+               <Location
+                  uuid = "72AA530C-9CF3-4551-B0B9-EC0F10FADE24 - 552b257e64fb46b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "integrate.Multiply.simplify() -&gt; integrate.ArithmeticBlock"
+                  moduleName = "integrate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charlotte/Developer/integrate/integrate/Multiply.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "152"
+                  endingLineNumber = "152"
+                  offsetFromSymbolStart = "4644">
+               </Location>
+               <Location
+                  uuid = "72AA530C-9CF3-4551-B0B9-EC0F10FADE24 - 552b257e64fb46b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "integrate.Multiply.simplify() -&gt; integrate.ArithmeticBlock"
+                  moduleName = "integrate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charlotte/Developer/integrate/integrate/Multiply.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "152"
+                  endingLineNumber = "152"
+                  offsetFromSymbolStart = "4852">
+               </Location>
+               <Location
+                  uuid = "72AA530C-9CF3-4551-B0B9-EC0F10FADE24 - 552b257e64fb4302"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "integrate.Multiply.simplify() -&gt; integrate.ArithmeticBlock"
+                  moduleName = "integrate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charlotte/Developer/integrate/integrate/Multiply.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "193"
+                  endingLineNumber = "193"
+                  offsetFromSymbolStart = "4284">
+               </Location>
+               <Location
+                  uuid = "72AA530C-9CF3-4551-B0B9-EC0F10FADE24 - 552b257e64fb4302"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "integrate.Multiply.simplify() -&gt; integrate.ArithmeticBlock"
+                  moduleName = "integrate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charlotte/Developer/integrate/integrate/Multiply.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "193"
+                  endingLineNumber = "193"
+                  offsetFromSymbolStart = "4292">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "391C5424-AA83-4838-BCE7-32E973BAD3C2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "integrate/Multiply.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "218"
+            endingLineNumber = "218"
+            landmarkName = "simplify()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "391C5424-AA83-4838-BCE7-32E973BAD3C2 - 552b257e64fb47c5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "integrate.Multiply.simplify() -&gt; integrate.ArithmeticBlock"
+                  moduleName = "integrate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charlotte/Developer/integrate/integrate/Multiply.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "156"
+                  endingLineNumber = "156"
+                  offsetFromSymbolStart = "5544">
+               </Location>
+               <Location
+                  uuid = "391C5424-AA83-4838-BCE7-32E973BAD3C2 - 552b257e64fb47c5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "integrate.Multiply.simplify() -&gt; integrate.ArithmeticBlock"
+                  moduleName = "integrate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charlotte/Developer/integrate/integrate/Multiply.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "156"
+                  endingLineNumber = "156"
+                  offsetFromSymbolStart = "5760">
+               </Location>
+               <Location
+                  uuid = "391C5424-AA83-4838-BCE7-32E973BAD3C2 - 552b257e64fb47c5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "integrate.Multiply.simplify() -&gt; integrate.ArithmeticBlock"
+                  moduleName = "integrate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charlotte/Developer/integrate/integrate/Multiply.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "156"
+                  endingLineNumber = "156"
+                  offsetFromSymbolStart = "6200">
+               </Location>
+               <Location
+                  uuid = "391C5424-AA83-4838-BCE7-32E973BAD3C2 - 552b257e64fb402b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "integrate.Multiply.simplify() -&gt; integrate.ArithmeticBlock"
+                  moduleName = "integrate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charlotte/Developer/integrate/integrate/Multiply.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "202"
+                  endingLineNumber = "202"
+                  offsetFromSymbolStart = "7668">
+               </Location>
+               <Location
+                  uuid = "391C5424-AA83-4838-BCE7-32E973BAD3C2 - 552b257e64fb402b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "integrate.Multiply.simplify() -&gt; integrate.ArithmeticBlock"
+                  moduleName = "integrate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charlotte/Developer/integrate/integrate/Multiply.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "202"
+                  endingLineNumber = "202"
+                  offsetFromSymbolStart = "7676">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "63E03D4A-AE08-47DC-BC2B-2FDEB3836F5F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "integrate/Multiply.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "222"
+            endingLineNumber = "222"
+            landmarkName = "simplify()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "63E03D4A-AE08-47DC-BC2B-2FDEB3836F5F - 552b257e64fb4741"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "integrate.Multiply.simplify() -&gt; integrate.ArithmeticBlock"
+                  moduleName = "integrate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charlotte/Developer/integrate/integrate/Multiply.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "160"
+                  endingLineNumber = "160"
+                  offsetFromSymbolStart = "6376">
+               </Location>
+               <Location
+                  uuid = "63E03D4A-AE08-47DC-BC2B-2FDEB3836F5F - 552b257e64fb4741"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "integrate.Multiply.simplify() -&gt; integrate.ArithmeticBlock"
+                  moduleName = "integrate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charlotte/Developer/integrate/integrate/Multiply.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "160"
+                  endingLineNumber = "160"
+                  offsetFromSymbolStart = "6724">
+               </Location>
+               <Location
+                  uuid = "63E03D4A-AE08-47DC-BC2B-2FDEB3836F5F - 552b257e64fb41b7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "integrate.Multiply.simplify() -&gt; integrate.ArithmeticBlock"
+                  moduleName = "integrate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charlotte/Developer/integrate/integrate/Multiply.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "206"
+                  endingLineNumber = "206"
+                  offsetFromSymbolStart = "8192">
+               </Location>
+               <Location
+                  uuid = "63E03D4A-AE08-47DC-BC2B-2FDEB3836F5F - 552b257e64fb41b7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "integrate.Multiply.simplify() -&gt; integrate.ArithmeticBlock"
+                  moduleName = "integrate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charlotte/Developer/integrate/integrate/Multiply.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "206"
+                  endingLineNumber = "206"
+                  offsetFromSymbolStart = "8200">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DBC4AE17-D18C-439B-80D2-992095A80BD7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "integrate/Multiply.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "224"
+            endingLineNumber = "224"
+            landmarkName = "simplify()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DBC4AE17-D18C-439B-80D2-992095A80BD7 - 552b257e64fb4703"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "integrate.Multiply.simplify() -&gt; integrate.ArithmeticBlock"
+                  moduleName = "integrate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charlotte/Developer/integrate/integrate/Multiply.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "162"
+                  endingLineNumber = "162"
+                  offsetFromSymbolStart = "6812">
+               </Location>
+               <Location
+                  uuid = "DBC4AE17-D18C-439B-80D2-992095A80BD7 - 552b257e64fb4703"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "integrate.Multiply.simplify() -&gt; integrate.ArithmeticBlock"
+                  moduleName = "integrate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charlotte/Developer/integrate/integrate/Multiply.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "162"
+                  endingLineNumber = "162"
+                  offsetFromSymbolStart = "7160">
+               </Location>
+               <Location
+                  uuid = "DBC4AE17-D18C-439B-80D2-992095A80BD7 - 552b257e64fb4171"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "integrate.Multiply.simplify() -&gt; integrate.ArithmeticBlock"
+                  moduleName = "integrate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charlotte/Developer/integrate/integrate/Multiply.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "208"
+                  endingLineNumber = "208"
+                  offsetFromSymbolStart = "8628">
+               </Location>
+               <Location
+                  uuid = "DBC4AE17-D18C-439B-80D2-992095A80BD7 - 552b257e64fb4171"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "integrate.Multiply.simplify() -&gt; integrate.ArithmeticBlock"
+                  moduleName = "integrate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charlotte/Developer/integrate/integrate/Multiply.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "208"
+                  endingLineNumber = "208"
+                  offsetFromSymbolStart = "8636">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B11BE5E5-694F-4560-AF89-ED40F432B59E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "integrate/Multiply.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "226"
+            endingLineNumber = "226"
+            landmarkName = "simplify()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B11BE5E5-694F-4560-AF89-ED40F432B59E - 552b257e64fb44cd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "integrate.Multiply.simplify() -&gt; integrate.ArithmeticBlock"
+                  moduleName = "integrate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charlotte/Developer/integrate/integrate/Multiply.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "164"
+                  endingLineNumber = "164"
+                  offsetFromSymbolStart = "7240">
+               </Location>
+               <Location
+                  uuid = "B11BE5E5-694F-4560-AF89-ED40F432B59E - 552b257e64fb44cd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "integrate.Multiply.simplify() -&gt; integrate.ArithmeticBlock"
+                  moduleName = "integrate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charlotte/Developer/integrate/integrate/Multiply.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "164"
+                  endingLineNumber = "164"
+                  offsetFromSymbolStart = "7456">
+               </Location>
+               <Location
+                  uuid = "B11BE5E5-694F-4560-AF89-ED40F432B59E - 552b257e64fb44cd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "integrate.Multiply.simplify() -&gt; integrate.ArithmeticBlock"
+                  moduleName = "integrate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charlotte/Developer/integrate/integrate/Multiply.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "164"
+                  endingLineNumber = "164"
+                  offsetFromSymbolStart = "7692">
+               </Location>
+               <Location
+                  uuid = "B11BE5E5-694F-4560-AF89-ED40F432B59E - 552b257e64fb4133"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "integrate.Multiply.simplify() -&gt; integrate.ArithmeticBlock"
+                  moduleName = "integrate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charlotte/Developer/integrate/integrate/Multiply.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "210"
+                  endingLineNumber = "210"
+                  offsetFromSymbolStart = "8896">
+               </Location>
+               <Location
+                  uuid = "B11BE5E5-694F-4560-AF89-ED40F432B59E - 552b257e64fb4133"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "integrate.Multiply.simplify() -&gt; integrate.ArithmeticBlock"
+                  moduleName = "integrate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charlotte/Developer/integrate/integrate/Multiply.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "210"
+                  endingLineNumber = "210"
+                  offsetFromSymbolStart = "8904">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "35414EC9-C73C-40B9-B34C-D638652054C1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "integrate/Multiply.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "232"
+            endingLineNumber = "232"
+            landmarkName = "simplify()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "464DC765-A1EE-46C2-BAFA-E788F431BEB9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "integrate/Multiply.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "234"
+            endingLineNumber = "234"
+            landmarkName = "simplify()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "464DC765-A1EE-46C2-BAFA-E788F431BEB9 - 552b257e64fb4434"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "integrate.Multiply.simplify() -&gt; integrate.ArithmeticBlock"
+                  moduleName = "integrate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charlotte/Developer/integrate/integrate/Multiply.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "171"
+                  endingLineNumber = "171"
+                  offsetFromSymbolStart = "9548">
+               </Location>
+               <Location
+                  uuid = "464DC765-A1EE-46C2-BAFA-E788F431BEB9 - 552b257e64fb4434"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "integrate.Multiply.simplify() -&gt; integrate.ArithmeticBlock"
+                  moduleName = "integrate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charlotte/Developer/integrate/integrate/Multiply.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "171"
+                  endingLineNumber = "171"
+                  offsetFromSymbolStart = "9572">
+               </Location>
+               <Location
+                  uuid = "464DC765-A1EE-46C2-BAFA-E788F431BEB9 - 552b257e64fb4434"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "integrate.Multiply.simplify() -&gt; integrate.ArithmeticBlock"
+                  moduleName = "integrate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charlotte/Developer/integrate/integrate/Multiply.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "171"
+                  endingLineNumber = "171"
+                  offsetFromSymbolStart = "9760">
+               </Location>
+               <Location
+                  uuid = "464DC765-A1EE-46C2-BAFA-E788F431BEB9 - 552b257e64fb4e3b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "integrate.Multiply.simplify() -&gt; integrate.ArithmeticBlock"
+                  moduleName = "integrate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charlotte/Developer/integrate/integrate/Multiply.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "218"
+                  endingLineNumber = "218"
+                  offsetFromSymbolStart = "11036">
+               </Location>
+               <Location
+                  uuid = "464DC765-A1EE-46C2-BAFA-E788F431BEB9 - 552b257e64fb4e3b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "integrate.Multiply.simplify() -&gt; integrate.ArithmeticBlock"
+                  moduleName = "integrate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charlotte/Developer/integrate/integrate/Multiply.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "218"
+                  endingLineNumber = "218"
+                  offsetFromSymbolStart = "11044">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BE9DDAFB-1DE1-4C1C-BDE9-07311E0294CA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "integrate/Multiply.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "241"
+            endingLineNumber = "241"
+            landmarkName = "simplify()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BB1F45A5-61D7-4241-B51D-7DAC70888CC7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "integrate/Multiply.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "243"
+            endingLineNumber = "243"
+            landmarkName = "simplify()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AF27072E-7C2A-4B4C-8664-DB434C22F5DC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "integrate/Multiply.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "247"
+            endingLineNumber = "247"
+            landmarkName = "simplify()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4269D464-C947-47F9-B570-32BF9C13B2F9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "integrate/Divide.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "__integrate(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4269D464-C947-47F9-B570-32BF9C13B2F9 - 1e1da9c1566d6a43"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "integrate.Divide.integrate() -&gt; Swift.Optional&lt;integrate.ArithmeticBlock&gt;"
+                  moduleName = "integrate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charlotte/Developer/integrate/integrate/Divide.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "4588">
+               </Location>
+               <Location
+                  uuid = "4269D464-C947-47F9-B570-32BF9C13B2F9 - 1e1da9c1566d75e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "integrate.Divide.integrate() -&gt; Swift.Optional&lt;integrate.ArithmeticBlock&gt;"
+                  moduleName = "integrate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charlotte/Developer/integrate/integrate/Divide.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "2292">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "515BDA45-DB38-48D3-80EB-E336C2C86796"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "integrate/Divide.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "__integrate(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "515BDA45-DB38-48D3-80EB-E336C2C86796 - 1e1da9c1566d75e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "integrate.Divide.integrate() -&gt; Swift.Optional&lt;integrate.ArithmeticBlock&gt;"
+                  moduleName = "integrate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charlotte/Developer/integrate/integrate/Divide.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "6528">
+               </Location>
+               <Location
+                  uuid = "515BDA45-DB38-48D3-80EB-E336C2C86796 - 1e1da9c1566d756a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "integrate.Divide.integrate() -&gt; Swift.Optional&lt;integrate.ArithmeticBlock&gt;"
+                  moduleName = "integrate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charlotte/Developer/integrate/integrate/Divide.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "3948">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FC360CC2-9DD0-429F-AE08-A30035E096BE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "integrate/Divide.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "__integrate(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FC360CC2-9DD0-429F-AE08-A30035E096BE - 1e1da9c1566d7528"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "integrate.Divide.integrate() -&gt; Swift.Optional&lt;integrate.ArithmeticBlock&gt;"
+                  moduleName = "integrate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charlotte/Developer/integrate/integrate/Divide.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "7040">
+               </Location>
+               <Location
+                  uuid = "FC360CC2-9DD0-429F-AE08-A30035E096BE - 1e1da9c1566d74ac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "integrate.Divide.integrate() -&gt; Swift.Optional&lt;integrate.ArithmeticBlock&gt;"
+                  moduleName = "integrate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charlotte/Developer/integrate/integrate/Divide.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "4428">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1C580E4B-744D-47F2-8FC1-E4D436C68BD0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "integrate/Divide.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "__integrate(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1C580E4B-744D-47F2-8FC1-E4D436C68BD0 - 1e1da9c1566d748d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "integrate.Divide.integrate() -&gt; Swift.Optional&lt;integrate.ArithmeticBlock&gt;"
+                  moduleName = "integrate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charlotte/Developer/integrate/integrate/Divide.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "7376">
+               </Location>
+               <Location
+                  uuid = "1C580E4B-744D-47F2-8FC1-E4D436C68BD0 - 1e1da9c1566d77b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "integrate.Divide.integrate() -&gt; Swift.Optional&lt;integrate.ArithmeticBlock&gt;"
+                  moduleName = "integrate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charlotte/Developer/integrate/integrate/Divide.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "5012">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "88751B4A-3A71-415A-9450-E2CCD141551A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "integrate/Multiply.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
+            landmarkName = "integrateByParts(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "88751B4A-3A71-415A-9450-E2CCD141551A - d1bbca614548f2e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "integrate.Multiply.integrateByParts() -&gt; Swift.Optional&lt;integrate.ArithmeticBlock&gt;"
+                  moduleName = "integrate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charlotte/Developer/integrate/integrate/Multiply.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "3876">
+               </Location>
+               <Location
+                  uuid = "88751B4A-3A71-415A-9450-E2CCD141551A - d1bbca614548f2e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "integrate.Multiply.integrateByParts() -&gt; Swift.Optional&lt;integrate.ArithmeticBlock&gt;"
+                  moduleName = "integrate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charlotte/Developer/integrate/integrate/Multiply.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "3880">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F7AB6E5B-F837-4B16-AB8A-97A8E6E32EC2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "integrate/Multiply.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "134"
+            endingLineNumber = "134"
+            landmarkName = "integrateByParts(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F7AB6E5B-F837-4B16-AB8A-97A8E6E32EC2 - d1bbca614548f075"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "integrate.Multiply.integrateByParts() -&gt; Swift.Optional&lt;integrate.ArithmeticBlock&gt;"
+                  moduleName = "integrate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charlotte/Developer/integrate/integrate/Multiply.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "7568">
+               </Location>
+               <Location
+                  uuid = "F7AB6E5B-F837-4B16-AB8A-97A8E6E32EC2 - d1bbca614548f075"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "integrate.Multiply.integrateByParts() -&gt; Swift.Optional&lt;integrate.ArithmeticBlock&gt;"
+                  moduleName = "integrate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charlotte/Developer/integrate/integrate/Multiply.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "7640">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "298D5010-CF8F-4E9E-897C-08CA9F39E3FC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "integrate/Multiply.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "232"
+            endingLineNumber = "232"
+            landmarkName = "simplify()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "298D5010-CF8F-4E9E-897C-08CA9F39E3FC - 552b257e64fb4e79"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "integrate.Multiply.simplify() -&gt; integrate.ArithmeticBlock"
+                  moduleName = "integrate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charlotte/Developer/integrate/integrate/Multiply.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "216"
+                  endingLineNumber = "216"
+                  offsetFromSymbolStart = "10508">
+               </Location>
+               <Location
+                  uuid = "298D5010-CF8F-4E9E-897C-08CA9F39E3FC - 552b257e64fb4e79"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "integrate.Multiply.simplify() -&gt; integrate.ArithmeticBlock"
+                  moduleName = "integrate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charlotte/Developer/integrate/integrate/Multiply.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "216"
+                  endingLineNumber = "216"
+                  offsetFromSymbolStart = "10516">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "369EC507-5556-404F-BD52-70E7158CD839"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "integrate/Multiply.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "223"
+            endingLineNumber = "223"
+            landmarkName = "simplify()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
